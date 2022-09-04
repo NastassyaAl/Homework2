@@ -1,5 +1,4 @@
-﻿Console.WriteLine("Введите число ");
-int num_user = int.Parse(Console.ReadLine());
+﻿int num_user = 7865;
 
 int n = 0;
 int number = num_user;
